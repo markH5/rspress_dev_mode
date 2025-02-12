@@ -5,25 +5,11 @@
 Install the dependencies:
 
 ```bash
-npm install
-```
+# step 1
+pnpm create rspress@latest # get "rspress": "^1.40.2"
+# step 2
+pnpm up -L 
+# get "rspress": "^1.41.2" and "@types/node": "^22.13.1"
+# Ensure the bug exists in the latest version
 
-## Get started
-
-Start the dev server:
-
-```bash
-npm run dev
-```
-
-Build the website for production:
-
-```bash
-npm run build
-```
-
-Preview the production build locally:
-
-```bash
-npm run preview
 ```

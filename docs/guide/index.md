@@ -208,3 +208,8 @@ console.log(b);
 ## Rustify MDX compiler
 
 You can enable Rustify MDX compiler by following config:
+
+![img-1](/rspress-light-logo.png)
+![img-2](/rspress-light-logo.p_ng)
+![img-3](/rspress-light-logo.jpg)
+

@@ -2,6 +2,12 @@ import * as path from 'node:path';
 import { defineConfig } from 'rspress/config';
 
 export default defineConfig({
+  // markdown: {
+  //   checkDeadLinks: true,
+  // },
+  // ssg: {
+  //   strict: true
+  // },
   root: path.join(__dirname, 'docs'),
   title: 'My Site',
   icon: '/rspress-icon.png',
